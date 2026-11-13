@@ -1,0 +1,36 @@
+{
+  "os":  "Linux-6.8.0-110-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.15",
+  "startedAt":  "2026-05-02T10:34:14.114866Z",
+  "program":  "/home/jupyter-tony0123.mg14@nycu-08870/deeplearing/kaggle1/train_v2.py",
+  "codePath":  "train_v2.py",
+  "codePathLocal":  "train_v2.py",
+  "email":  "tony0123.mg14@nycu.edu.tw",
+  "root":  "/home/jupyter-tony0123.mg14@nycu-08870/deeplearing/kaggle1",
+  "host":  "200-jupyterhub",
+  "executable":  "/home/jupyter-tony0123.mg14@nycu-08870/deeplearing/kaggle1/.venv/bin/python3",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1078417580032",
+      "used":  "134349631488"
+    }
+  },
+  "memory":  {
+    "total":  "16747528192"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada",
+      "uuid":  "GPU-c02ab3ea-e98a-567d-c6e3-efb1e6164488"
+    }
+  ],
+  "cudaVersion":  "13.2",
+  "writerId":  "4b8e6c879q5jvw3d91hcdsq8s5iu6rm9"
+}
